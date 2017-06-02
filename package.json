@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn node js",
+  "main": "delay.js",
+  "dependencies": {
+    "firebase": "^4.0.0",
+    "johnny-five": "^0.10.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superoo7/nodejs.git"
+  },
+  "author": "Lai Weng Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superoo7/nodejs/issues"
+  },
+  "homepage": "https://github.com/superoo7/nodejs#readme"
+}
